@@ -1,0 +1,15 @@
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\obj\Debug\net6.0\Tuote.csproj.AssemblyReference.cache
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\obj\Debug\net6.0\Tuote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\obj\Debug\net6.0\Tuote.AssemblyInfoInputs.cache
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\obj\Debug\net6.0\Tuote.AssemblyInfo.cs
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\obj\Debug\net6.0\Tuote.csproj.CoreCompileInputs.cache
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\bin\Debug\net6.0\Tuote.exe
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\bin\Debug\net6.0\Tuote.deps.json
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\bin\Debug\net6.0\Tuote.runtimeconfig.json
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\bin\Debug\net6.0\Tuote.dll
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\bin\Debug\net6.0\Tuote.pdb
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\obj\Debug\net6.0\Tuote.dll
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\obj\Debug\net6.0\refint\Tuote.dll
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\obj\Debug\net6.0\Tuote.pdb
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\obj\Debug\net6.0\Tuote.genruntimeconfig.cache
+C:\Users\janne\Desktop\gradia\C#\Tuote\Tuote\obj\Debug\net6.0\ref\Tuote.dll
