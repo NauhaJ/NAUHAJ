@@ -1,0 +1,15 @@
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.csproj.AssemblyReference.cache
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.AssemblyInfoInputs.cache
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.AssemblyInfo.cs
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.csproj.CoreCompileInputs.cache
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\bin\Debug\net6.0\Musiikkikappale.exe
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\bin\Debug\net6.0\Musiikkikappale.deps.json
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\bin\Debug\net6.0\Musiikkikappale.runtimeconfig.json
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\bin\Debug\net6.0\Musiikkikappale.dll
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\bin\Debug\net6.0\Musiikkikappale.pdb
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.dll
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\refint\Musiikkikappale.dll
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.pdb
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.genruntimeconfig.cache
+C:\Users\janne\Desktop\gradia\C# alkeet\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\ref\Musiikkikappale.dll
