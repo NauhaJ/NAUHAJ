@@ -1,0 +1,15 @@
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\obj\Debug\net6.0\Velka.csproj.AssemblyReference.cache
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\obj\Debug\net6.0\Velka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\obj\Debug\net6.0\Velka.AssemblyInfoInputs.cache
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\obj\Debug\net6.0\Velka.AssemblyInfo.cs
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\obj\Debug\net6.0\Velka.csproj.CoreCompileInputs.cache
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\bin\Debug\net6.0\Velka.exe
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\bin\Debug\net6.0\Velka.deps.json
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\bin\Debug\net6.0\Velka.runtimeconfig.json
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\bin\Debug\net6.0\Velka.dll
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\bin\Debug\net6.0\Velka.pdb
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\obj\Debug\net6.0\Velka.dll
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\obj\Debug\net6.0\refint\Velka.dll
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\obj\Debug\net6.0\Velka.pdb
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\obj\Debug\net6.0\Velka.genruntimeconfig.cache
+C:\Users\janne\Desktop\gradia\C#\Velka\Velka\obj\Debug\net6.0\ref\Velka.dll
