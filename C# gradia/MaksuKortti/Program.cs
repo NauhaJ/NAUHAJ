@@ -36,5 +36,25 @@ public class Paaohjelma
         //Console.WriteLine("Pekka: " + kortti);
         //kortti.LataaRahaa(-15);
         //Console.WriteLine("Pekka: " + kortti);
+        Maksukortti pekanKortti = new Maksukortti(20);
+        Maksukortti matinKortti = new Maksukortti(30);
+        pekanKortti.syoMaukkaasti();
+        matinKortti.syoEdullisesti();
+        Console.WriteLine($" Pekalla on rahaa {pekanKortti}");
+        Console.WriteLine($" Matilla on rahaa {matinKortti}");
+        pekanKortti.LataaRahaa(20);
+        matinKortti.syoMaukkaasti();
+        Console.WriteLine($" Pekalla on rahaa {pekanKortti}");
+        Console.WriteLine($" Matilla on rahaa {matinKortti}");
+        pekanKortti.syoEdullisesti();
+        pekanKortti.syoEdullisesti();
+        matinKortti.LataaRahaa(50);
+        Console.WriteLine($" Pekalla on rahaa {pekanKortti}");
+        Console.WriteLine($" Matilla on rahaa {matinKortti}");
+
+        Console.ReadLine();
+
+
+
     }
 }
