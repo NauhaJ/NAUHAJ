@@ -40,17 +40,17 @@ public class Paaohjelma
         Maksukortti matinKortti = new Maksukortti(30);
         pekanKortti.syoMaukkaasti();
         matinKortti.syoEdullisesti();
-        Console.WriteLine($" Pekalla on rahaa {pekanKortti}");
-        Console.WriteLine($" Matilla on rahaa {matinKortti}");
+        Console.WriteLine($" Pekan {pekanKortti}");
+        Console.WriteLine($" Matin {matinKortti}");
         pekanKortti.LataaRahaa(20);
         matinKortti.syoMaukkaasti();
-        Console.WriteLine($" Pekalla on rahaa {pekanKortti}");
-        Console.WriteLine($" Matilla on rahaa {matinKortti}");
+        Console.WriteLine($" Pekan {pekanKortti}");
+        Console.WriteLine($" Matin {matinKortti}");
         pekanKortti.syoEdullisesti();
         pekanKortti.syoEdullisesti();
         matinKortti.LataaRahaa(50);
-        Console.WriteLine($" Pekalla on rahaa {pekanKortti}");
-        Console.WriteLine($" Matilla on rahaa {matinKortti}");
+        Console.WriteLine($" Pekan {pekanKortti}");
+        Console.WriteLine($" Matin {matinKortti}");
 
         Console.ReadLine();
 

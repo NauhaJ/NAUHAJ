@@ -50,7 +50,7 @@ namespace maksuKortti
         
         public override string ToString()
         {
-            return ($"Kortilla on rahaa {this.saldo} euroa");
+            return ($"kortilla on rahaa {this.saldo} euroa");
         }
     }
 }
