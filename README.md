@@ -2,9 +2,9 @@
 
 🌱 Vasta alkaja  ...
 
-C# Olio ohjelmointi
-Python
-C++  (Hyvin ohkaisesti Oulun yliopisto)
+- C# Olio ohjelmointi
+- Python
+- C++  (Hyvin ohkaisesti Oulun yliopisto)
 
 <!--
 **NauhaJ/NAUHAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
