@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janne\\Desktop\\gradia\\C# alkeet\\MaksuKortti\\MaksuKortti\\MaksuKortti.csproj",
+      "projectUniqueName": "C:\\Users\\janne\\Desktop\\NAUHAJ\\C# gradia\\MaksuKortti\\MaksuKortti.csproj",
       "projectName": "MaksuKortti",
-      "projectPath": "C:\\Users\\janne\\Desktop\\gradia\\C# alkeet\\MaksuKortti\\MaksuKortti\\MaksuKortti.csproj",
+      "projectPath": "C:\\Users\\janne\\Desktop\\NAUHAJ\\C# gradia\\MaksuKortti\\MaksuKortti.csproj",
       "packagesPath": "C:\\Users\\janne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janne\\Desktop\\gradia\\C# alkeet\\MaksuKortti\\MaksuKortti\\obj\\",
+      "outputPath": "C:\\Users\\janne\\Desktop\\NAUHAJ\\C# gradia\\MaksuKortti\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\janne\\AppData\\Roaming\\NuGet\\NuGet.Config",

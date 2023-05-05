@@ -10,32 +10,32 @@ public class Paaohjelma
 {
     public static void Main(String[] args)
     {
-        //Maksukortti kortti = new Maksukortti(50);
-        //Console.WriteLine(kortti);
-        //kortti.syoEdullisesti();
-        //Console.WriteLine(kortti);
-        //kortti.syoMaukkaasti();
-        //kortti.syoEdullisesti();
-        //Console.WriteLine(kortti);
-        //Maksukortti kortti = new Maksukortti(5);
-        //Console.WriteLine(kortti);
-        //kortti.syoMaukkaasti();
-        //Console.WriteLine(kortti);
-        //kortti.syoMaukkaasti();
-        //Console.WriteLine(kortti);
-        //Maksukortti kortti = new Maksukortti(10);
-        //Console.WriteLine(kortti);
-        //kortti.LataaRahaa(15);
-        //Console.WriteLine(kortti);
-        //kortti.LataaRahaa(10);
-        //Console.WriteLine(kortti);
-        //kortti.LataaRahaa(200);
-        //Console.WriteLine(kortti);
+        Maksukortti kortti1 = new Maksukortti(50);
+        Console.WriteLine(kortti1);
+        kortti1.syoEdullisesti();
+        Console.WriteLine(kortti1);
+        kortti1.syoMaukkaasti();
+        kortti1.syoEdullisesti();
+        Console.WriteLine(kortti1);
+        Maksukortti kortti2 = new Maksukortti(5);
+        Console.WriteLine(kortti2);
+        kortti2.syoMaukkaasti();
+        Console.WriteLine(kortti2);
+        kortti2.syoMaukkaasti();
+        Console.WriteLine(kortti2);
+        Maksukortti kortti3 = new Maksukortti(10);
+        Console.WriteLine(kortti3);
+        kortti3.LataaRahaa(15);
+        Console.WriteLine(kortti3);
+        kortti3.LataaRahaa(10);
+        Console.WriteLine(kortti3);
+        kortti3.LataaRahaa(200);
+        Console.WriteLine(kortti3);
 
-        //Maksukortti kortti = new Maksukortti(10);
-        //Console.WriteLine("Pekka: " + kortti);
-        //kortti.LataaRahaa(-15);
-        //Console.WriteLine("Pekka: " + kortti);
+        Maksukortti kortti = new Maksukortti(10);
+        Console.WriteLine("Pekka: " + kortti);
+        kortti.LataaRahaa(-15);
+        Console.WriteLine("Pekka: " + kortti);
         Maksukortti pekanKortti = new Maksukortti(20);
         Maksukortti matinKortti = new Maksukortti(30);
         pekanKortti.syoMaukkaasti();

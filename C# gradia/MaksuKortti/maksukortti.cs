@@ -47,10 +47,10 @@ namespace maksuKortti
             }
         }
 
-        
+        // ToString() metodi palauttaa tekstimuotoisen esityksen oliosta.
         public override string ToString()
         {
-            return ($"kortilla on rahaa {this.saldo} euroa");
+            return ($"kortilla on rahaa {this.saldo.ToString("0.00")} euroa");
         }
     }
 }
