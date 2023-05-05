@@ -33,17 +33,21 @@ namespace maksuKortti
             {
                 this.saldo = (this.saldo - maukas_hinta);
             }
-        //    // Jos menee negatiiviseksi niin palauttaa olemassa olevan saldon
-        //    else
-        //    {
-        //        this.saldo = this.saldo;
-        //    }
+                // Jos menee negatiiviseksi niin palauttaa olemassa olevan saldon ja tulostaa else tekstin
+            else
+            {
+                Console.WriteLine("Tilillä ei tarpeeksi saldoa");
+            }
         }
         public void LataaRahaa(double saldo)
         {
             if (saldo > 0)
             {
                 this.saldo = saldo + this.saldo;
+            }
+            else
+            {
+                Console.WriteLine("Tilillä ei tarpeeksi saldoa");
             }
         }
 
