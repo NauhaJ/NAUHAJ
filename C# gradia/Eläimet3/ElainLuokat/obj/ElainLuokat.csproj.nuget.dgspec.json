@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janne\\Desktop\\gradia\\C# alkeet\\Eläimet3\\ElainLuokat\\ElainLuokat.csproj": {}
+    "C:\\Users\\janne\\Desktop\\NAUHAJ\\C# gradia\\Eläimet3\\ElainLuokat\\ElainLuokat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janne\\Desktop\\gradia\\C# alkeet\\Eläimet3\\ElainLuokat\\ElainLuokat.csproj": {
+    "C:\\Users\\janne\\Desktop\\NAUHAJ\\C# gradia\\Eläimet3\\ElainLuokat\\ElainLuokat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janne\\Desktop\\gradia\\C# alkeet\\Eläimet3\\ElainLuokat\\ElainLuokat.csproj",
+        "projectUniqueName": "C:\\Users\\janne\\Desktop\\NAUHAJ\\C# gradia\\Eläimet3\\ElainLuokat\\ElainLuokat.csproj",
         "projectName": "ElainLuokat",
-        "projectPath": "C:\\Users\\janne\\Desktop\\gradia\\C# alkeet\\Eläimet3\\ElainLuokat\\ElainLuokat.csproj",
+        "projectPath": "C:\\Users\\janne\\Desktop\\NAUHAJ\\C# gradia\\Eläimet3\\ElainLuokat\\ElainLuokat.csproj",
         "packagesPath": "C:\\Users\\janne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janne\\Desktop\\gradia\\C# alkeet\\Eläimet3\\ElainLuokat\\obj\\",
+        "outputPath": "C:\\Users\\janne\\Desktop\\NAUHAJ\\C# gradia\\Eläimet3\\ElainLuokat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janne\\AppData\\Roaming\\NuGet\\NuGet.Config",
