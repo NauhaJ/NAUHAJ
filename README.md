@@ -5,6 +5,7 @@
 - C# Olio ohjelmointi
 - Python
 - C++  (Hyvin ohkaisesti Oulun yliopisto)
+- Java SE alkeita ( Metropolia)
 
 <!--
 **NauhaJ/NAUHAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
